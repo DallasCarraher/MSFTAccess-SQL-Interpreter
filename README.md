@@ -1,2 +1,2 @@
 # SQL-Interpreter
-c# sql script interpreter with access db
+> windows form sql script interpreter with access db, written in c#
