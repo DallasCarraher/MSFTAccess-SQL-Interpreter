@@ -1,0 +1,9 @@
+C:\Users\Dallas\Desktop\Assignment1\Assignment1\bin\x86\Debug\Assignment1.exe.config
+C:\Users\Dallas\Desktop\Assignment1\Assignment1\bin\x86\Debug\Assignment1.exe
+C:\Users\Dallas\Desktop\Assignment1\Assignment1\bin\x86\Debug\Assignment1.pdb
+C:\Users\Dallas\Desktop\Assignment1\Assignment1\obj\x86\Debug\Assignment1.Form1.resources
+C:\Users\Dallas\Desktop\Assignment1\Assignment1\obj\x86\Debug\Assignment1.Properties.Resources.resources
+C:\Users\Dallas\Desktop\Assignment1\Assignment1\obj\x86\Debug\Interpreter.csproj.GenerateResource.cache
+C:\Users\Dallas\Desktop\Assignment1\Assignment1\obj\x86\Debug\Interpreter.csproj.CoreCompileInputs.cache
+C:\Users\Dallas\Desktop\Assignment1\Assignment1\obj\x86\Debug\Assignment1.exe
+C:\Users\Dallas\Desktop\Assignment1\Assignment1\obj\x86\Debug\Assignment1.pdb

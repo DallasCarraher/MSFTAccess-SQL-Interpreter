@@ -1,0 +1,30 @@
+C:\Users\13791\Desktop\BA 371\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\13791\Desktop\BA 371\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\13791\Desktop\BA 371\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\13791\Desktop\BA 371\Assignment1\Assignment1\obj\Debug\Assignment1.csprojAssemblyReference.cache
+C:\Users\13791\Desktop\BA 371\Assignment1\Assignment1\obj\Debug\Assignment1.Form1.resources
+C:\Users\13791\Desktop\BA 371\Assignment1\Assignment1\obj\Debug\Assignment1.Properties.Resources.resources
+C:\Users\13791\Desktop\BA 371\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.GenerateResource.cache
+C:\Users\13791\Desktop\BA 371\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\13791\Desktop\BA 371\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\13791\Desktop\BA 371\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
+Z:\BA 371\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+Z:\BA 371\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+Z:\BA 371\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+Z:\BA 371\Assignment1\Assignment1\obj\Debug\Assignment1.csprojAssemblyReference.cache
+Z:\BA 371\Assignment1\Assignment1\obj\Debug\Assignment1.Form1.resources
+Z:\BA 371\Assignment1\Assignment1\obj\Debug\Assignment1.Properties.Resources.resources
+Z:\BA 371\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.GenerateResource.cache
+Z:\BA 371\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+Z:\BA 371\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+Z:\BA 371\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
+C:\Users\Dallas\Desktop\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\Dallas\Desktop\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\Dallas\Desktop\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\Dallas\Desktop\Assignment1\Assignment1\obj\Debug\Assignment1.csprojAssemblyReference.cache
+C:\Users\Dallas\Desktop\Assignment1\Assignment1\obj\Debug\Assignment1.Form1.resources
+C:\Users\Dallas\Desktop\Assignment1\Assignment1\obj\Debug\Assignment1.Properties.Resources.resources
+C:\Users\Dallas\Desktop\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.GenerateResource.cache
+C:\Users\Dallas\Desktop\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\Dallas\Desktop\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\Dallas\Desktop\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
